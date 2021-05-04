@@ -1,9 +1,11 @@
 # mascidocs
-Repository for Masci-Docs website. I haven't worked on anything yet, but I have plans.
+repository for mascidocs website. i haven't worked on anything yet, but i have plans.
 
-## I am still working on:
-+ Website
-+ Notes (Markdown)
-+ PDFs
+## i am still working on:
++ website
++ notes (Markdown)
++ pdfs
 
-random text here
+## to-do
++ gather notes from batch server and anywhere else
++ plan what to do after that
