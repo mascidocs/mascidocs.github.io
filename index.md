@@ -1,3 +1,5 @@
+.bg-gray-dark
+
 # mascidocs
 repository for mascidocs website. i haven't worked on anything yet, but i have plans.
 
