@@ -23,7 +23,7 @@ body {
   font-size: 20px;
 }
 
-ul {
+ul.nav {
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -31,7 +31,7 @@ ul {
   background-color: var(--nord8);
 }
 
-li a {
+ul.nav li a {
   display: block;
   color: var(--nord4);
   padding: 8px 16px;
@@ -39,7 +39,7 @@ li a {
 }
 
 /*color changer when cursor hover*/
-li a:hover {
+ul.nav li a:hover {
   background-color: var(--nord10);
   color: var(--nord4);
 }
