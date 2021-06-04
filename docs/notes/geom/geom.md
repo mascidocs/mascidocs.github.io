@@ -29,7 +29,7 @@ $B$ is between $A$ and $C$ if:
 2. $AB + BC = AC$
 
 ### Midpoint
-Given the point B and the segment $\overline{AC}$. $B$ is a midpoint if **$B$ is between $A$ and $C$** and **$AB = BC$**
+Given the point B and the segment $A̅B̅$. $B$ is a midpoint if **$B$ is between $A$ and $C$** and **$AB = BC$**
 
 ### Bisector
 The **midpoint** of a segment is said to **bisect** the segment. The midpoint **of** any segment, line, plane, or ray which **contains the midpoint** and **does not contain** $\overline{AB}$ is called the bisector of said segment, line, plane, or ray.
