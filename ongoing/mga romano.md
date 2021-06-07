@@ -6,3 +6,4 @@
     + Nakuha niya ang Mesopotamia, Greece, Egypt at maliit na parte ng India
     + Pinalaganap ang Kulturang Griyego sa nasakupan
     + Siya ay namatay sa edad na 32 sa Babylon (sa lason o Malaria)
+    + Pinakamagandang ginawa​: Pinagsama ang kultura ng Europa at Asia (tinawag nakabihasnang helenistiko)
