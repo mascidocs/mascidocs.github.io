@@ -208,6 +208,52 @@ If P is in one of the sets and Q is in the other, then the segment # PQ bar # in
 Postulate 11: The Angle Measurement Postulate
 .PP
 To every angle # \[u2220] BAC # there corresponds a real number between 0 and 180.
+.NH 2
+SSS Postulate (Side - Side - Side)
+.PP
+If the sides of one triangle are
+.B "congruent"
+to the sides of a
+.B "second triangle,"
+then
+.B "the triangles are congruent."
+.NH 2
+SAS Postulate (Side - Included Angle - Side)
+.PP
+If the
+.B "two sides"
+and the
+.B "included angle"
+of one triangle are
+.B "congruent"
+to the other two sides and included angle of
+.B "another triangle,"
+then
+.B "the triangles are congruent."
+.NH 2
+ASA Postulate (Angle - Included Side - Angle)
+.PP
+If the
+.B "two angles"
+and the
+.B "included side"
+of one triangle are
+.B "congruent"
+to the other two angles and included side of
+.B "another triangle,"
+then
+.B "the triangles are congruent."
+.NH 2
+AAS Postulate (Angle - Angle - Non-Included Side)
+.PP
+If the
+.B "two angles"
+and a
+.B "non-included side"
+of one triangle are
+.B "congruent to the two corresponding angles and non-included side of a second triangle,"
+then
+.B "the triangles are congruent."
 .NH
 Theorems
 .NH 2
@@ -247,3 +293,82 @@ Theorem 7
 .PP
 If two different planes intersect, then their
 .B "intersection is a line."
+.NH 2
+Theorem 8
+.PP
+Every right angle has measure 90, and every angle with measure 90 is a right angle.
+.NH 2
+Theorem 9
+.PP
+Congruence between angles is an equivalence relation.
+.NH 2
+Theorem 10
+.PP
+If two angles are complementary, then they are both acute.
+.NH 2
+Theorem 11
+.PP
+Any two right angles are congruent
+.NH 2
+Theorem 12
+.PP
+If two angles are both congruent and supplementary, then each is a right angle.
+.NH 2
+The Supplement Theorem
+.PP
+Supplements of congruent angles are congruent.
+.NH 2
+The Complement Theorem
+.PP
+Complements of congruent angles are congruent.
+.NH 2
+The Vertical Angle Theorem (VAT)
+.PP
+Vertical angles are congruent.
+.NH 2
+Theorem 16
+.PP
+If two intersecting lines form one right angle, then they form four right angles.
+.NH 2
+Theorem 17
+.PP
+The perpendicular bisectors of the sides of a triangle are concurrent at a point equidistant from the vertices.
+.NH 2
+Theorem 18
+.PP
+The bisectors of the angles of a triangle are concurrent at a point equidistant from the sides.
+.NH 2
+Theorem 19
+.PP
+The medians of a triangle intersect in a point that is two-thirds the distance from each vertex to the midpoint of the opposite side.
+.NH 2
+The Perpendicular Bisector Theorem (PBT)
+.PP
+The perpendicular bisector of a segment, in a plane, is the set of all points of the plane that are equidistant from the end points of the segment.
+.PP
+If line L is the perpendicular bisector, then:
+.nr stepsix 1 1
+.IP \n[stepsix] 1
+If P is on L, then # PA = PB #; or
+.IP \n+[stepsix]
+If # PA = PB #, then P is on L
+.NH 2
+Converse of Perpendicular Bisector Theorem (CPBT)
+.PP
+Given a segment and a line L in the same plane. If two points of L are equidistant from A and B, then L is the perpendicular bisector of the given segment.
+.NH 2
+Theorem 22
+.PP
+Through a given point there is at least one line to a given line.
+.NH 2
+Theorem 23
+.PP
+Through a given point there is at most one line to a given line.
+.NH 2
+The Exterior Angle Theorem (EAT)
+.PP
+An exterior angle of a triangle is greater than each of its remote interior angles.
+.NH 2
+Theorem Related to EAT
+.PP
+The measure of an exterior angle of a triangle is equal to the sum of the measures of the remote interior angles, from the given figure above: If # \[u2220] A # and # \[u2220] B # are the remote interior angle of exterior angle # \[u2220] BCD #, then # m\[u2220] BCD = m\[u2220] A + m\[u2220] B #.
