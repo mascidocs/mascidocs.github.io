@@ -150,8 +150,12 @@ Right Angle
 If the angles in a linear pair have the same measure, then each of them is called a right angle.
 .NH 3
 Angle Bisector
+.NH 2
+Triangle
+.NH 3
+Angle Bisector of Triangles
 .PP
-
+It lies in the ray which bisects an angle of a triangle, and its end points are the vertex of this angle and a point of the opposite side
 .NH
 Postulates
 .NH 2
