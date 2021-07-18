@@ -121,7 +121,7 @@ then their union is an
 The two rays are called its
 .B "sides,"
 and their common point is called its vertex.
-.NH 2
+.NH 3
 Interior of an Angle
 .PP
 The set of all points P in the plane of # \[u2220] BAC # such that:
@@ -130,11 +130,28 @@ The set of all points P in the plane of # \[u2220] BAC # such that:
 P and B are on the same side of # AC vec #
 .IP \n+[steptwo]
 P and C are on the same side of # AB vec #
-.NH 2
+.NH 3
 Acute Angle
 .PP
 An angle that has a measure
 .B "greater than 0"
+but
+.B "less than 90"
+.NH 3
+Obtuse Angle
+.PP
+An angle that has a measure
+.B "greater than 90"
+but
+.B "less than 180"
+.NH 3
+Right Angle
+.PP
+If the angles in a linear pair have the same measure, then each of them is called a right angle.
+.NH 3
+Angle Bisector
+.PP
+
 .NH
 Postulates
 .NH 2
