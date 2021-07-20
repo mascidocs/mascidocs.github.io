@@ -393,3 +393,135 @@ An exterior angle of a triangle is greater than each of its remote interior angl
 Theorem Related to EAT
 .PP
 The measure of an exterior angle of a triangle is equal to the sum of the measures of the remote interior angles, from the given figure above: If # \[u2220] A # and # \[u2220] B # are the remote interior angle of exterior angle # \[u2220] BCD #, then # m\[u2220] BCD = m\[u2220] A + m\[u2220] B #.
+.NH 2
+The SAA Theorem
+.PP
+Every SAA correspondence is a congruence.
+.NH 2
+The Hypotenuse-Leg Theorem
+.PP
+Given a correspondence between two right triangles. If the hypotenuse and one leg of the triangles are congruent to the corresponding parts of the second triangle, then the correspondence is a congruence.
+.NH 2
+Theorem 28
+.PP
+If two sides of a triangle are not congruent, then the angles opposite them are not congruent, and the larger angle is opposite the longer side.
+.NH 2
+Theorem 29
+.PP
+If two angles of a triangle are not congruent, then the sides opposite them are not congruent, and the longer side is opposite the larger angle.
+.NH 2
+The First Minimum Theorem
+.PP
+The shortest segment joining a point to a line is the perpendicular segment.
+.NH 2
+The Triangle Inequality Theorem
+.PP
+The sum of any two sides of a triangle is greater than the length of the third side.
+.NH 2
+The Hinge Theorem
+.PP
+If two sides of one triangle are congruent, respectively, to two sides of a second triangle, and the included angle of the first triangle is larger than the included angle of the second, then the third side of the triangle is longer than the third side of the second.
+.NH 2
+The Converse Hinge Theorem
+.PP
+If two sides of one triangle are congruent respectively, to two sides of a second triangle, and the third side of the first triangle is longer than the third side of the second, then the included angle of the first triangle is larger than the included angle of the second.
+.NH 2
+Theorem: Existence of Parallels
+.PP
+Let L be a line and let P be a point not on L, then there is at least one line through P, parallel to L.
+.NH
+Corollary
+.NH 2
+Corollary 1
+.PP
+No triangle has two right angles.
+.NH 2
+Corollary of Exterior Angle Theorem
+.PP
+If a triangle has one right angle, then its other angles are acute.
+.NH 2
+Corollary to Sum of Measures of a Triangle
+.PP
+Given a correspondence between two triangles. If two pairs of corresponding angles are congruent, then the third pair of corresponding angles are also congruent.
+.NH 2
+Corollary to Sum of Measures of a Triangle (wtf is this i gotta ask concon about it)
+.NH 2
+The PCA Corollary
+.PP
+If two parallel lines are cut by a transversal, each pair of corresponding angles are congruent.
+.NH 2
+The AA Corollary
+.PP
+Given a correspondence between two triangles. If two pairs of corresponding angles are congruent, then the correspondence is a similarity.
+.NH
+Conditions Which Guarantee Parallelism
+.NH 2
+Theorem 1
+.PP
+In a plane, two lines are parallell if they are both perpendicular to the same line.
+.NH 2
+The AIP Theorem
+.PP
+Given two lines cut by transversal. If a pair of alternate interior angles are congruent, then the lines are parallel.
+.NH 2
+Theorem 3
+.PP
+Given two lines cut by a transversal. If a pair of corresponding angles are congruent, then the alternate interior angles are congruent.
+.NH 2
+The CAP Theorem
+.PP
+Given two lines cut by a transversal. If a pair of corresponding angles are congruent, then the lines cut by the transversal are parallel.
+.NH 2
+Theorem 5
+.PP
+Given two lines cut by a tranversal. If a pair of interior angles on the same side of transversal are supplementary, then the lines are parallel.
+.NH 2
+The Parallel Postulate
+.PP
+Through a given external point there is only parallel to a given line.
+.NH 2
+The PAI Theorem
+.PP
+If two parallel lines are cut by a transversal, then their alternate interior angles are congruent.
+.NH 2
+Theorem 8
+.PP
+If two parallel lines are cut by a transversal, then alternate interior angles are congruent.
+.NH 2
+Theorem 9
+.PP
+In a plane, if a line intersects one of two parallel lines in only one point, then it intersects the other.
+.NH 2
+Theorem 10
+.PP
+In a plane, if two lines are each parallel to a third line, then they are parallel to each other.
+.NH 2
+Theorem 11
+.PP
+In a plane, if a line is perpendicular to one of two parallel lines, it is also perpendicular to the other line.
+.NH 2
+Theorem 12
+.PP
+For every triangle, the sum of the measures of the angles is 180.
+.NH 2
+Theorem 13
+.PP
+If three parallel lines intercept congruent segments on one transversal T, then they intercept congruent segments on every transversal T' which is parallel to T.
+.NH 2
+Theorem 14
+.PP
+If three parallel lines intercept congruent segments on one transversal, then they intercept congruent segments on any other transversal.
+.NH 2
+Theorem 15
+.PP
+If three or more parallel lines intercept congruent segments on one transversal, then they intercept congruent segments on any other transversal.
+.NH
+Theorems Concerning Quadrilaterals
+.NH 2
+Angle Sum Property of Quadrilaterals
+.PP
+In a convex quadrilateral, the sum of the measures of its angles is 360.
+.NH 2
+Theorem 1
+.PP
+Each diagonal separates a parallelogram into two congruent triangles.
