@@ -525,3 +525,122 @@ In a convex quadrilateral, the sum of the measures of its angles is 360.
 Theorem 1
 .PP
 Each diagonal separates a parallelogram into two congruent triangles.
+.NH 2
+Theorem 2
+.PP
+In a parallelogram, any two opposite sides are congruent.
+.NH 2
+Theorem 3
+.PP
+If two lines are parallel, then all points of each line are equidistant from the other line.
+.NH 2
+Theorem 4
+.PP
+In a parallelogram, any two opposite angles are congruent.
+.NH 2
+Theorem 5
+.PP
+In a parallelogram, any two consecutive angles are supplementary.
+.NH 2
+Theorem 6
+.PP
+The diagonals of a parallelogram bisect each other.
+.NH 2
+Theorem 7
+.PP
+The diagonals of a rectangle are congruent.
+.NH 2
+Theorem 8
+.PP
+In a rhombus, the diagonals are perpendicular to one another.
+.NH 2
+Theorem 9
+.PP
+The diagonals of a rhombus bisect the angles of the rhombus.
+.NH 2
+Midline Theorem
+.PP
+If two sides of a quadrilateral are congruent, then the quadrilateral is a parallelogram.
+.NH 2
+Theorem 10
+.PP
+In a quadrilateral, if one pair of opposite sides are congruent while the other pair are parallel, then the quadrilateral is a congruent.
+.NH 2
+Theorem 11
+.PP
+If both pairs of opposite sides of a quadrilateral are congruent, then the quadrilateral is a parallelogram.
+.NH 2
+Theorem 12
+.PP
+If both pairs of opposite angles of a quadrilateral are congruent, then the quadrilateral is a parallelogram.
+.NH 2
+Theorem 13
+.PP
+If a parallelogram has one right angle, then the parallelogram is a rectangle.
+.NH 2
+Theorem 14
+.PP
+If the diagonals of a parallelogram bisect each other and are perpendicular, the parallelogram is a rhombus.
+.NH 2
+Theorem 15
+.PP
+The median of a trapezoid is parallel to the bases and its measure is half the sum of the measure of the bases.
+.NH 2
+Theorem 16
+.PP
+If the diagonals of a quadrilateral bisect each other, then the quadrilateral is a parallelogram.
+.NH 2
+Theorem 17
+.PP
+Joining the midpoints of an isosceles triangle will form a rhombus.
+.NH 2
+Theorem 18
+.PP
+The quadrilateral formed by joining the midpoints of the consecutive sides of any quadrilateral is a parallelogram.
+.NH 2
+Theorem 19
+.PP
+Joining the midpoints of a rhombus will form a rectangle.
+.NH 2
+Theorem 20
+.PP
+The segments joining the midpoints of opposite sides of any quadrilateral bisect each other.
+.NH 2
+Theorem 21
+.PP
+If a trapezoid is isosceles, then each pair of base angles are congruent.
+.NH 2
+Theorem 22
+.PP
+If a trapezoid is isosceles, then the diagonals are congruent.
+.NH 2
+Theorem 23
+.PP
+If a quadrilateral is a kite, then it has two pairs of congruent sides and its opposite sides are not congruent.
+.NH
+Theorems on Right Triangles
+.NH 2
+Theorem 1
+.PP
+The median to the hypotenuse of a right triangle is half as long as the hypotenuse.
+.NH 2
+30-60-90 Theorem
+.PP
+If an acute angle of a right triangle has measure 30, then the opposite side is half as long as the hypotenuse.
+.NH 2
+Theorem 3
+.PP
+If one leg of a right triangle is half as long as the hypotenuse, then the opposite angle has measure 30.
+.NH
+Formulas for Finding the Perimeter of a Quadrilateral
+.PP
+.TS
+center allbox;
+c c
+n n .
+Types of Quadrilaterals	Formula for finding the Perimeter
+Parallelogram	P = 2(Base + Side)
+Square	P = 4(Side)
+Rectangle	P = 2(Length + Width)
+Rhombus	P = 4(Side)
+.TE
